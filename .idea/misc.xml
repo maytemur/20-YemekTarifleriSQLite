@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maytemur/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/maytemur/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_deneme_fragment.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/maytemur/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_liste.xml" value="0.33" />
+        <entry key="..\:/Users/maytemur/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_liste2.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/maytemur/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_tarif.xml" value="0.22" />
+        <entry key="..\:/Users/maytemur/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_tarif2.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/maytemur/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_tarih.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/maytemur/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/menu/yemek_ekle.xml" value="0.3296296296296296" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/20-YemekTarifleriSQLite/app/src/main/res/layout/activity_main.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/20-YemekTarifleriSQLite/app/src/main/res/layout/fragment_liste.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/20-YemekTarifleriSQLite/app/src/main/res/layout/fragment_tarif.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/20-YemekTarifleriSQLite/app/src/main/res/menu/yemek_ekle.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/activity_main.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_liste.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_liste2.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/fragment_tarif.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/layout/recycler_row.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/maytemur/Google Drive/Java/AndroidStudioProjects/YemekTarifleriSQLite/app/src/main/res/menu/yemek_ekle.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
